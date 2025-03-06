@@ -1,7 +1,7 @@
 # AI DeepLearning
 
 
-**Week1**
+##Week1
 - Learned Colab, Github, Markdown
   
 Colab -> 노트 열기 -> Github -> 'fchollet' 입력 -> fchollet/deelpearning with python 클릭하여 업로드된 깃허브 파일 코드들 확인 가능
