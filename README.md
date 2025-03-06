@@ -1,6 +1,5 @@
 # AI DeepLearning
 
-## About This Class
 
 **Week1**
 - Learned Colab, Github, Markdown
