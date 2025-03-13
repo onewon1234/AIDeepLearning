@@ -5,7 +5,7 @@
 1) 데이터 입력받기(Input): 2D 데이터(28*28) -> 1D 벡터로 변환해야 함
 2) 은닉층(Hidden Layer)에서 가중치 조정: 각 뉴런이 특정한 가중치를 갖고 데이터 변형하여 출력층에서 정확한 예측을 할 수 있게 도와줌
  *가중치(Weight): Optimizer 이용하여 손실을 줄이도록 가중치를 조정함.
-4) 예측값(Predictions Y): 이미지가 어떤 숫자인지 예측 <- Output Layer에서 변환된 레이어를 갖고 생성
+4) 예측값(Predictions Y): 이미지가 어떤 숫자인지 예측 <- Output Layer가 변환된 히든 레이어를 갖고 생성
 5) Predictions Y와 True targets 비교 - Loss Function을 통해 오차 계산
 6) Optimizer을 통해 Loss Function을 최소화할 때까지 반복 학습
 
