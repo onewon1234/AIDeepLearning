@@ -11,3 +11,6 @@ Colab -> 노트 열기 -> Github -> 'fchollet' 입력 -> fchollet/deelpearning w
 **week2**
 - Learned Neural Network, Tensors, Data batches, epoch...\
 
+**week3**
+- Learned how to use optimizer, reshape, compose sequential model with keras. 
+
